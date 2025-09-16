@@ -1,2 +1,9 @@
 data:
-  default_ticker: BTC-USD
+  default_ticker: "BTC-USD"
+  start: "2018-01-01"
+  end: null
+app:
+  default_source: "sample"   # "sample" or "yfinance"
+  lookback_days: 365
+risk:
+  var_confidence: 0.95
