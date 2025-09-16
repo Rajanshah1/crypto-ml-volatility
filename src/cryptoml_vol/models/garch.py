@@ -1,0 +1,1 @@
+# garch model placeholder
